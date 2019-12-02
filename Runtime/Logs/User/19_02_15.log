@@ -1,0 +1,261 @@
+[ 2019-02-15T10:37:12+08:00 ] 127.0.0.1 /Agent_Login_checklogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.001000s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-02-15T10:38:02+08:00 ] 127.0.0.1 /Agent_Login_checklogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.001000s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-02-15T10:38:04+08:00 ] 127.0.0.1 /agent_Index_index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.001000s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' D:\phpstudynew\PHPTutorial\WWW\shangchuangwenjian\Runtime\Cache\User\d7a7632f153cf12d0db44c934c28bcfe.php 第 7 行.
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' D:\phpstudynew\PHPTutorial\WWW\shangchuangwenjian\Runtime\Cache\User\d7a7632f153cf12d0db44c934c28bcfe.php 第 8 行.
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' D:\phpstudynew\PHPTutorial\WWW\shangchuangwenjian\Runtime\Cache\User\d7a7632f153cf12d0db44c934c28bcfe.php 第 9 行.
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' D:\phpstudynew\PHPTutorial\WWW\shangchuangwenjian\Runtime\Cache\User\d7a7632f153cf12d0db44c934c28bcfe.php 第 10 行.
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' D:\phpstudynew\PHPTutorial\WWW\shangchuangwenjian\Runtime\Cache\User\d7a7632f153cf12d0db44c934c28bcfe.php 第 37 行.
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' D:\phpstudynew\PHPTutorial\WWW\shangchuangwenjian\Runtime\Cache\User\d7a7632f153cf12d0db44c934c28bcfe.php 第 38 行.
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' D:\phpstudynew\PHPTutorial\WWW\shangchuangwenjian\Runtime\Cache\User\d7a7632f153cf12d0db44c934c28bcfe.php 第 39 行.
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' D:\phpstudynew\PHPTutorial\WWW\shangchuangwenjian\Runtime\Cache\User\d7a7632f153cf12d0db44c934c28bcfe.php 第 40 行.
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' D:\phpstudynew\PHPTutorial\WWW\shangchuangwenjian\Runtime\Cache\User\d7a7632f153cf12d0db44c934c28bcfe.php 第 72 行.
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' D:\phpstudynew\PHPTutorial\WWW\shangchuangwenjian\Runtime\Cache\User\d7a7632f153cf12d0db44c934c28bcfe.php 第 82 行.
+NOTIC: [8] Use of undefined constant open_charge - assumed 'open_charge' D:\phpstudynew\PHPTutorial\WWW\shangchuangwenjian\Runtime\Cache\User\d7a7632f153cf12d0db44c934c28bcfe.php 第 82 行.
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' D:\phpstudynew\PHPTutorial\WWW\shangchuangwenjian\Runtime\Cache\User\d7a7632f153cf12d0db44c934c28bcfe.php 第 118 行.
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' D:\phpstudynew\PHPTutorial\WWW\shangchuangwenjian\Runtime\Cache\User\d7a7632f153cf12d0db44c934c28bcfe.php 第 119 行.
+NOTIC: [8] Use of undefined constant df_api - assumed 'df_api' D:\phpstudynew\PHPTutorial\WWW\shangchuangwenjian\Runtime\Cache\User\d7a7632f153cf12d0db44c934c28bcfe.php 第 130 行.
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' D:\phpstudynew\PHPTutorial\WWW\shangchuangwenjian\Runtime\Cache\User\d7a7632f153cf12d0db44c934c28bcfe.php 第 133 行.
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' D:\phpstudynew\PHPTutorial\WWW\shangchuangwenjian\Runtime\Cache\User\d7a7632f153cf12d0db44c934c28bcfe.php 第 139 行.
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' D:\phpstudynew\PHPTutorial\WWW\shangchuangwenjian\Runtime\Cache\User\d7a7632f153cf12d0db44c934c28bcfe.php 第 153 行.
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' D:\phpstudynew\PHPTutorial\WWW\shangchuangwenjian\Runtime\Cache\User\d7a7632f153cf12d0db44c934c28bcfe.php 第 167 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-02-15T10:38:04+08:00 ] 127.0.0.1 /agent_Index_index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.001000s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' D:\phpstudynew\PHPTutorial\WWW\shangchuangwenjian\Runtime\Cache\User\d7a7632f153cf12d0db44c934c28bcfe.php 第 7 行.
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' D:\phpstudynew\PHPTutorial\WWW\shangchuangwenjian\Runtime\Cache\User\d7a7632f153cf12d0db44c934c28bcfe.php 第 8 行.
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' D:\phpstudynew\PHPTutorial\WWW\shangchuangwenjian\Runtime\Cache\User\d7a7632f153cf12d0db44c934c28bcfe.php 第 9 行.
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' D:\phpstudynew\PHPTutorial\WWW\shangchuangwenjian\Runtime\Cache\User\d7a7632f153cf12d0db44c934c28bcfe.php 第 10 行.
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' D:\phpstudynew\PHPTutorial\WWW\shangchuangwenjian\Runtime\Cache\User\d7a7632f153cf12d0db44c934c28bcfe.php 第 37 行.
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' D:\phpstudynew\PHPTutorial\WWW\shangchuangwenjian\Runtime\Cache\User\d7a7632f153cf12d0db44c934c28bcfe.php 第 38 行.
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' D:\phpstudynew\PHPTutorial\WWW\shangchuangwenjian\Runtime\Cache\User\d7a7632f153cf12d0db44c934c28bcfe.php 第 39 行.
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' D:\phpstudynew\PHPTutorial\WWW\shangchuangwenjian\Runtime\Cache\User\d7a7632f153cf12d0db44c934c28bcfe.php 第 40 行.
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' D:\phpstudynew\PHPTutorial\WWW\shangchuangwenjian\Runtime\Cache\User\d7a7632f153cf12d0db44c934c28bcfe.php 第 72 行.
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' D:\phpstudynew\PHPTutorial\WWW\shangchuangwenjian\Runtime\Cache\User\d7a7632f153cf12d0db44c934c28bcfe.php 第 82 行.
+NOTIC: [8] Use of undefined constant open_charge - assumed 'open_charge' D:\phpstudynew\PHPTutorial\WWW\shangchuangwenjian\Runtime\Cache\User\d7a7632f153cf12d0db44c934c28bcfe.php 第 82 行.
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' D:\phpstudynew\PHPTutorial\WWW\shangchuangwenjian\Runtime\Cache\User\d7a7632f153cf12d0db44c934c28bcfe.php 第 118 行.
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' D:\phpstudynew\PHPTutorial\WWW\shangchuangwenjian\Runtime\Cache\User\d7a7632f153cf12d0db44c934c28bcfe.php 第 119 行.
+NOTIC: [8] Use of undefined constant df_api - assumed 'df_api' D:\phpstudynew\PHPTutorial\WWW\shangchuangwenjian\Runtime\Cache\User\d7a7632f153cf12d0db44c934c28bcfe.php 第 130 行.
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' D:\phpstudynew\PHPTutorial\WWW\shangchuangwenjian\Runtime\Cache\User\d7a7632f153cf12d0db44c934c28bcfe.php 第 133 行.
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' D:\phpstudynew\PHPTutorial\WWW\shangchuangwenjian\Runtime\Cache\User\d7a7632f153cf12d0db44c934c28bcfe.php 第 139 行.
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' D:\phpstudynew\PHPTutorial\WWW\shangchuangwenjian\Runtime\Cache\User\d7a7632f153cf12d0db44c934c28bcfe.php 第 153 行.
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' D:\phpstudynew\PHPTutorial\WWW\shangchuangwenjian\Runtime\Cache\User\d7a7632f153cf12d0db44c934c28bcfe.php 第 167 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-02-15T10:38:04+08:00 ] 127.0.0.1 /agent_Index_main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.001000s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: category D:\phpstudynew\PHPTutorial\WWW\shangchuangwenjian\Application\User\Controller\IndexController.class.php 第 59 行.
+NOTIC: [2] implode(): Invalid arguments passed D:\phpstudynew\PHPTutorial\WWW\shangchuangwenjian\Application\User\Controller\IndexController.class.php 第 59 行.
+NOTIC: [8] Undefined variable: dataone D:\phpstudynew\PHPTutorial\WWW\shangchuangwenjian\Application\User\Controller\IndexController.class.php 第 60 行.
+NOTIC: [2] implode(): Invalid arguments passed D:\phpstudynew\PHPTutorial\WWW\shangchuangwenjian\Application\User\Controller\IndexController.class.php 第 60 行.
+NOTIC: [8] Undefined variable: datatwo D:\phpstudynew\PHPTutorial\WWW\shangchuangwenjian\Application\User\Controller\IndexController.class.php 第 61 行.
+NOTIC: [2] implode(): Invalid arguments passed D:\phpstudynew\PHPTutorial\WWW\shangchuangwenjian\Application\User\Controller\IndexController.class.php 第 61 行.
+NOTIC: [8] Undefined variable: ipItem D:\phpstudynew\PHPTutorial\WWW\shangchuangwenjian\Application\User\Controller\IndexController.class.php 第 100 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] Illegal string offset 'loginip' D:\phpstudynew\PHPTutorial\WWW\shangchuangwenjian\Runtime\Cache\User\0a2302724c4cbc626c8639028f086c96.php 第 31 行.
+NOTIC: [8] Uninitialized string offset: 0 D:\phpstudynew\PHPTutorial\WWW\shangchuangwenjian\Runtime\Cache\User\0a2302724c4cbc626c8639028f086c96.php 第 31 行.
+NOTIC: [2] Illegal string offset 'loginaddress' D:\phpstudynew\PHPTutorial\WWW\shangchuangwenjian\Runtime\Cache\User\0a2302724c4cbc626c8639028f086c96.php 第 31 行.
+NOTIC: [8] Uninitialized string offset: 0 D:\phpstudynew\PHPTutorial\WWW\shangchuangwenjian\Runtime\Cache\User\0a2302724c4cbc626c8639028f086c96.php 第 31 行.
+NOTIC: [2] Illegal string offset 'logindatetime' D:\phpstudynew\PHPTutorial\WWW\shangchuangwenjian\Runtime\Cache\User\0a2302724c4cbc626c8639028f086c96.php 第 31 行.
+NOTIC: [8] Uninitialized string offset: 0 D:\phpstudynew\PHPTutorial\WWW\shangchuangwenjian\Runtime\Cache\User\0a2302724c4cbc626c8639028f086c96.php 第 31 行.
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' D:\phpstudynew\PHPTutorial\WWW\shangchuangwenjian\Runtime\Cache\User\0a2302724c4cbc626c8639028f086c96.php 第 40 行.
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' D:\phpstudynew\PHPTutorial\WWW\shangchuangwenjian\Runtime\Cache\User\0a2302724c4cbc626c8639028f086c96.php 第 91 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-02-15T10:38:06+08:00 ] 127.0.0.1 /agent_Withdrawal_clearing.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.002000s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant t1zt - assumed 't1zt' D:\phpstudynew\PHPTutorial\WWW\shangchuangwenjian\Runtime\Cache\User\de2411f4124e1f9d67d82a8b67210965.php 第 33 行.
+NOTIC: [8] Use of undefined constant t1zt - assumed 't1zt' D:\phpstudynew\PHPTutorial\WWW\shangchuangwenjian\Runtime\Cache\User\de2411f4124e1f9d67d82a8b67210965.php 第 33 行.
+NOTIC: [8] Use of undefined constant tkzxmoney - assumed 'tkzxmoney' D:\phpstudynew\PHPTutorial\WWW\shangchuangwenjian\Runtime\Cache\User\de2411f4124e1f9d67d82a8b67210965.php 第 34 行.
+NOTIC: [8] Use of undefined constant tkzdmoney - assumed 'tkzdmoney' D:\phpstudynew\PHPTutorial\WWW\shangchuangwenjian\Runtime\Cache\User\de2411f4124e1f9d67d82a8b67210965.php 第 35 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpstudynew\PHPTutorial\WWW\shangchuangwenjian\Runtime\Cache\User\de2411f4124e1f9d67d82a8b67210965.php 第 39 行.
+NOTIC: [8] Use of undefined constant tktype - assumed 'tktype' D:\phpstudynew\PHPTutorial\WWW\shangchuangwenjian\Runtime\Cache\User\de2411f4124e1f9d67d82a8b67210965.php 第 41 行.
+NOTIC: [8] Use of undefined constant tktype - assumed 'tktype' D:\phpstudynew\PHPTutorial\WWW\shangchuangwenjian\Runtime\Cache\User\de2411f4124e1f9d67d82a8b67210965.php 第 42 行.
+NOTIC: [8] Use of undefined constant sxffixed - assumed 'sxffixed' D:\phpstudynew\PHPTutorial\WWW\shangchuangwenjian\Runtime\Cache\User\de2411f4124e1f9d67d82a8b67210965.php 第 43 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpstudynew\PHPTutorial\WWW\shangchuangwenjian\Runtime\Cache\User\de2411f4124e1f9d67d82a8b67210965.php 第 49 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-02-15T10:38:06+08:00 ] 127.0.0.1 /agent_Withdrawal_dfapply.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.001000s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant t1zt - assumed 't1zt' D:\phpstudynew\PHPTutorial\WWW\shangchuangwenjian\Runtime\Cache\User\f3c17be63daebf8c6385df5e9685e289.php 第 41 行.
+NOTIC: [8] Use of undefined constant t1zt - assumed 't1zt' D:\phpstudynew\PHPTutorial\WWW\shangchuangwenjian\Runtime\Cache\User\f3c17be63daebf8c6385df5e9685e289.php 第 41 行.
+NOTIC: [8] Use of undefined constant tkzxmoney - assumed 'tkzxmoney' D:\phpstudynew\PHPTutorial\WWW\shangchuangwenjian\Runtime\Cache\User\f3c17be63daebf8c6385df5e9685e289.php 第 42 行.
+NOTIC: [8] Use of undefined constant tkzdmoney - assumed 'tkzdmoney' D:\phpstudynew\PHPTutorial\WWW\shangchuangwenjian\Runtime\Cache\User\f3c17be63daebf8c6385df5e9685e289.php 第 43 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-02-15T10:38:07+08:00 ] 127.0.0.1 /agent_Withdrawal_index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.001000s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+

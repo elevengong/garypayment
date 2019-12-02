@@ -1,0 +1,188 @@
+[ 2019-02-13T09:47:04+08:00 ] 221.192.179.28 /User_Login_checklogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000516s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000491s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001098s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.001529s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.001617s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000043s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000106s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014005s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014079s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000145s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000278s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000483s ]
+
+[ 2019-02-13T09:50:12+08:00 ] 42.236.10.84 /User_Login_checklogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000314s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000326s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000706s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.000799s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.000838s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000374s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000422s ]
+
+[ 2019-02-13T09:50:26+08:00 ] 180.163.220.68 /User_Login_checklogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000051s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000371s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000345s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000786s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.000740s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.000791s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000455s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000503s ]
+
+[ 2019-02-13T11:01:12+08:00 ] 36.250.174.174 /user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000051s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000317s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000363s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000740s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.000981s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.001038s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000052s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000105s ]
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' /www/wwwroot/94.191.18.151/Runtime/Cache/User/d7a7632f153cf12d0db44c934c28bcfe.php 第 7 行.
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' /www/wwwroot/94.191.18.151/Runtime/Cache/User/d7a7632f153cf12d0db44c934c28bcfe.php 第 8 行.
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' /www/wwwroot/94.191.18.151/Runtime/Cache/User/d7a7632f153cf12d0db44c934c28bcfe.php 第 9 行.
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' /www/wwwroot/94.191.18.151/Runtime/Cache/User/d7a7632f153cf12d0db44c934c28bcfe.php 第 10 行.
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' /www/wwwroot/94.191.18.151/Runtime/Cache/User/d7a7632f153cf12d0db44c934c28bcfe.php 第 37 行.
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' /www/wwwroot/94.191.18.151/Runtime/Cache/User/d7a7632f153cf12d0db44c934c28bcfe.php 第 38 行.
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' /www/wwwroot/94.191.18.151/Runtime/Cache/User/d7a7632f153cf12d0db44c934c28bcfe.php 第 39 行.
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' /www/wwwroot/94.191.18.151/Runtime/Cache/User/d7a7632f153cf12d0db44c934c28bcfe.php 第 40 行.
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' /www/wwwroot/94.191.18.151/Runtime/Cache/User/d7a7632f153cf12d0db44c934c28bcfe.php 第 72 行.
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' /www/wwwroot/94.191.18.151/Runtime/Cache/User/d7a7632f153cf12d0db44c934c28bcfe.php 第 82 行.
+NOTIC: [8] Use of undefined constant open_charge - assumed 'open_charge' /www/wwwroot/94.191.18.151/Runtime/Cache/User/d7a7632f153cf12d0db44c934c28bcfe.php 第 82 行.
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' /www/wwwroot/94.191.18.151/Runtime/Cache/User/d7a7632f153cf12d0db44c934c28bcfe.php 第 118 行.
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' /www/wwwroot/94.191.18.151/Runtime/Cache/User/d7a7632f153cf12d0db44c934c28bcfe.php 第 119 行.
+NOTIC: [8] Use of undefined constant df_api - assumed 'df_api' /www/wwwroot/94.191.18.151/Runtime/Cache/User/d7a7632f153cf12d0db44c934c28bcfe.php 第 130 行.
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' /www/wwwroot/94.191.18.151/Runtime/Cache/User/d7a7632f153cf12d0db44c934c28bcfe.php 第 133 行.
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' /www/wwwroot/94.191.18.151/Runtime/Cache/User/d7a7632f153cf12d0db44c934c28bcfe.php 第 139 行.
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' /www/wwwroot/94.191.18.151/Runtime/Cache/User/d7a7632f153cf12d0db44c934c28bcfe.php 第 153 行.
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' /www/wwwroot/94.191.18.151/Runtime/Cache/User/d7a7632f153cf12d0db44c934c28bcfe.php 第 167 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017152s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017202s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000132s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000265s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000443s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000379s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000454s ]
+
+[ 2019-02-13T11:01:12+08:00 ] 36.250.174.174 /agent_Index_main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000388s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000510s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000983s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.000734s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.000770s ]
+NOTIC: [8] Undefined variable: category /www/wwwroot/94.191.18.151/Application/User/Controller/IndexController.class.php 第 59 行.
+NOTIC: [2] implode(): Invalid arguments passed /www/wwwroot/94.191.18.151/Application/User/Controller/IndexController.class.php 第 59 行.
+NOTIC: [8] Undefined variable: dataone /www/wwwroot/94.191.18.151/Application/User/Controller/IndexController.class.php 第 60 行.
+NOTIC: [2] implode(): Invalid arguments passed /www/wwwroot/94.191.18.151/Application/User/Controller/IndexController.class.php 第 60 行.
+NOTIC: [8] Undefined variable: datatwo /www/wwwroot/94.191.18.151/Application/User/Controller/IndexController.class.php 第 61 行.
+NOTIC: [2] implode(): Invalid arguments passed /www/wwwroot/94.191.18.151/Application/User/Controller/IndexController.class.php 第 61 行.
+NOTIC: [8] Undefined variable: ipItem /www/wwwroot/94.191.18.151/Application/User/Controller/IndexController.class.php 第 100 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000036s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000084s ]
+NOTIC: [2] Illegal string offset 'loginip' /www/wwwroot/94.191.18.151/Runtime/Cache/User/0a2302724c4cbc626c8639028f086c96.php 第 31 行.
+NOTIC: [8] Uninitialized string offset: 0 /www/wwwroot/94.191.18.151/Runtime/Cache/User/0a2302724c4cbc626c8639028f086c96.php 第 31 行.
+NOTIC: [2] Illegal string offset 'loginaddress' /www/wwwroot/94.191.18.151/Runtime/Cache/User/0a2302724c4cbc626c8639028f086c96.php 第 31 行.
+NOTIC: [8] Uninitialized string offset: 0 /www/wwwroot/94.191.18.151/Runtime/Cache/User/0a2302724c4cbc626c8639028f086c96.php 第 31 行.
+NOTIC: [2] Illegal string offset 'logindatetime' /www/wwwroot/94.191.18.151/Runtime/Cache/User/0a2302724c4cbc626c8639028f086c96.php 第 31 行.
+NOTIC: [8] Uninitialized string offset: 0 /www/wwwroot/94.191.18.151/Runtime/Cache/User/0a2302724c4cbc626c8639028f086c96.php 第 31 行.
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' /www/wwwroot/94.191.18.151/Runtime/Cache/User/0a2302724c4cbc626c8639028f086c96.php 第 40 行.
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' /www/wwwroot/94.191.18.151/Runtime/Cache/User/0a2302724c4cbc626c8639028f086c96.php 第 91 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010386s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010424s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000123s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000293s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000466s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000400s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000432s ]
+
+[ 2019-02-13T11:01:25+08:00 ] 36.250.174.174 /agent_Channel_index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000061s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000417s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000460s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000962s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.000750s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.000822s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000032s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000079s ]
+NOTIC: [8] Use of undefined constant t1zt - assumed 't1zt' /www/wwwroot/94.191.18.151/Runtime/Cache/User/0afc5151d73d81b2039d13070791350e.php 第 33 行.
+NOTIC: [8] Use of undefined constant t1zt - assumed 't1zt' /www/wwwroot/94.191.18.151/Runtime/Cache/User/0afc5151d73d81b2039d13070791350e.php 第 33 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006802s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006841s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000136s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000211s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000392s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000327s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000355s ]
+
+[ 2019-02-13T11:01:26+08:00 ] 36.250.174.174 /agent_Channel_apidocumnet.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000052s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000339s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000334s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000738s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.000884s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.000935s ]
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' /www/wwwroot/94.191.18.151/Application/User/Controller/ChannelController.class.php 第 50 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000043s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000106s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006985s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007027s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000184s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000274s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000518s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000439s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000477s ]
+

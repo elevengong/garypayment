@@ -1,0 +1,163 @@
+2018-12-13 02:41:16 {"msg":"接口参数错误：uid长度不对","data":{"orderid":"","qrcode":"","istype":0,"realprice":0,"price_istype":1},"code":1,"url":""}
+2018-12-17 00:05:10 {"msg":"接口参数错误：uid长度不对","data":{"orderid":"","qrcode":"","istype":0,"realprice":0,"price_istype":1},"code":1,"url":""}
+2018-12-26 14:50:42 jsonpReturn({"code":0,"msg":"金额匹配失败！","time":"1545807042","data":null});
+2018-12-26 14:50:53 <!DOCTYPE html>
+<!--[if lt IE 7]>
+<html class="lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>
+<html class="lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>
+<html class="lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class=""> <!--<![endif]-->
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,Chrome=1">
+    <meta name="viewport" content="width=device-width,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no">
+    <meta name="renderer" content="webkit">
+    <title>立即支付</title>
+
+    <link rel="stylesheet" media="screen" href="/public/assets/addons/pay/css/pay.css?v=1545807053"/>
+    <link rel="stylesheet" media="screen" href="/public/assets/libs/font-awesome/css/font-awesome.min.css?v=1545807053"/>
+
+    <!--[if lt IE 9]>
+    <script src="/public/libs/html5shiv.js?v=?v=1545807053"></script>
+    <script src="/public/libs/respond.min.js?v=?v=1545807053"></script>
+    <![endif]-->
+
+</head>
+<body>
+<div class="container">
+    <div class="header">
+        <div class="logo 1"></div>
+    </div>
+    <div class="mainbody">
+        <div class="tips" style="color: red">
+            支付宝提醒您警惕网络欺诈 请选择继续付款
+        </div>
+        <div class="realprice">￥50.00</div>
+        <!---->
+
+        <div class="discountprice hidden"><del>原价:50.00</del>，随机立减￥0.00</div>
+
+        <!--<div class="warning ">扫码后请务必手动输入金额</div>-->
+        <div class="qrcode">
+            <img class="image" src="/qrcode/build?text=alipays%3A%2F%2Fplatformapi%2Fstartapp%3FappId%3D20000067%26url%3Dhttps%3A%2F%2Fpay.huohuo8.com%2Findex%2Findex%2Falipay%3Ft%3DHC26070532697890" alt="">
+            <div class="logo hidden-xs logo-1"></div>
+            <div class="expired hidden"></div>
+            <div class="paid hidden"></div>
+        </div>
+        <div class="remainseconds">
+            <div class="time minutes">
+                <b>10</b>
+                <em>分</em>
+            </div>
+            <div class="colon">:</div>
+            <div class="time seconds">
+                <b>00</b>
+                <em>秒</em>
+            </div>
+        </div>
+
+
+        <div class="tips">
+                                打开支付宝「扫一扫」
+                        </div>
+        <div class="help">
+            支付即时到账，未到账请与我们联系<br />            订单号：20181226145051985750        </div>
+    </div>
+
+    <!---->
+    <script>
+        var order = {"order_id":"HC26070532697890","out_order_id":"20181226145051985750","price":"50.00","realprice":"50.00","discountprice":"0.00","extend":"","type":1,"remainseconds":600,"status":"inprogress","manual":true,"returnurl":"https:\/\/www.zhkpay.com\/Pay_Jmalipay_callbackurl.html?orderid=20181226145051985750","payurl":"https:\/\/pay.huohuo8.com\/addons\/pay\/api\/create?price=50.00&out_order_id=20181226145051985750&type=1&notifyurl=https%3A%2F%2Fwww.zhkpay.com%2FPay_Jmalipay_notifyurl.html&returnurl=https%3A%2F%2Fwww.zhkpay.com%2FPay_Jmalipay_callbackurl.html&extend=50.00&sign=1da10b89f0a82bad89e0bf39bd04e7be&format=html?t=HC26070532697890","queryurl":"https:\/\/pay.huohuo8.com\/addons\/pay\/api\/query?out_order_id=20181226145051985750&sign=b7e4e6d59d2f5f413e7bdf0552aafc2f","qrcodeurl":"alipays:\/\/platformapi\/startapp?appId=20000067&url=https:\/\/pay.huohuo8.com\/index\/index\/alipay?t=HC26070532697890","url":"alipays:\/\/platformapi\/startapp?appId=20000067&url=https:\/\/pay.huohuo8.com\/index\/index\/alipay?t=HC26070532697890"};
+        var addon = {successtips:"支付成功!请关闭当前窗口以便于继续操作!", expiretips:"二维码已过期,请点击这里刷新后重新尝试支付!", jumptips:"支付成功!2秒后将自动跳转!"}
+    </script>
+
+</div>
+
+
+<script type="text/javascript" src="/public/assets/libs/jquery/dist/jquery.min.js?v=1545807053"></script>
+<script type="text/javascript" src="/public/assets/addons/pay/js/pay.js?v=1545807053"></script>
+</body>
+</html>
+2018-12-26 14:52:06 jsonpReturn({"code":0,"msg":"金额匹配失败！","time":"1545807126","data":null});
+2018-12-26 14:53:12 <!DOCTYPE html>
+<!--[if lt IE 7]>
+<html class="lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>
+<html class="lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>
+<html class="lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class=""> <!--<![endif]-->
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,Chrome=1">
+    <meta name="viewport" content="width=device-width,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no">
+    <meta name="renderer" content="webkit">
+    <title>立即支付</title>
+
+    <link rel="stylesheet" media="screen" href="/public/assets/addons/pay/css/pay.css?v=1545807192"/>
+    <link rel="stylesheet" media="screen" href="/public/assets/libs/font-awesome/css/font-awesome.min.css?v=1545807192"/>
+
+    <!--[if lt IE 9]>
+    <script src="/public/libs/html5shiv.js?v=?v=1545807192"></script>
+    <script src="/public/libs/respond.min.js?v=?v=1545807192"></script>
+    <![endif]-->
+
+</head>
+<body>
+<div class="container">
+    <div class="header">
+        <div class="logo 1"></div>
+    </div>
+    <div class="mainbody">
+        <div class="tips" style="color: red">
+            支付宝提醒您警惕网络欺诈 请选择继续付款
+        </div>
+        <div class="realprice">￥50.00</div>
+        <!---->
+
+        <div class="discountprice hidden"><del>原价:50.00</del>，随机立减￥0.00</div>
+
+        <!--<div class="warning ">扫码后请务必手动输入金额</div>-->
+        <div class="qrcode">
+            <img class="image" src="/qrcode/build?text=alipays%3A%2F%2Fplatformapi%2Fstartapp%3FappId%3D20000067%26url%3Dhttps%3A%2F%2Fpay.huohuo8.com%2Findex%2Findex%2Falipay%3Ft%3DHC26071924056655" alt="">
+            <div class="logo hidden-xs logo-1"></div>
+            <div class="expired hidden"></div>
+            <div class="paid hidden"></div>
+        </div>
+        <div class="remainseconds">
+            <div class="time minutes">
+                <b>10</b>
+                <em>分</em>
+            </div>
+            <div class="colon">:</div>
+            <div class="time seconds">
+                <b>00</b>
+                <em>秒</em>
+            </div>
+        </div>
+
+
+        <div class="tips">
+                                打开支付宝「扫一扫」
+                        </div>
+        <div class="help">
+            支付即时到账，未到账请与我们联系<br />            订单号：20181226145311555710        </div>
+    </div>
+
+    <!---->
+    <script>
+        var order = {"order_id":"HC26071924056655","out_order_id":"20181226145311555710","price":"50.00","realprice":"50.00","discountprice":"0.00","extend":"","type":1,"remainseconds":600,"status":"inprogress","manual":true,"returnurl":"https:\/\/www.zhkpay.com\/Pay_Jmalipay_callbackurl.html?orderid=20181226145311555710","payurl":"https:\/\/pay.huohuo8.com\/addons\/pay\/api\/create?price=50.00&out_order_id=20181226145311555710&type=1&notifyurl=https%3A%2F%2Fwww.zhkpay.com%2FPay_Jmalipay_notifyurl.html&returnurl=https%3A%2F%2Fwww.zhkpay.com%2FPay_Jmalipay_callbackurl.html&extend=50.00&sign=3dc45aaf905d9fa390576b430fc82bf8&format=html?t=HC26071924056655","queryurl":"https:\/\/pay.huohuo8.com\/addons\/pay\/api\/query?out_order_id=20181226145311555710&sign=f75c14763795cfa84f0245a6d69e418b","qrcodeurl":"alipays:\/\/platformapi\/startapp?appId=20000067&url=https:\/\/pay.huohuo8.com\/index\/index\/alipay?t=HC26071924056655","url":"alipays:\/\/platformapi\/startapp?appId=20000067&url=https:\/\/pay.huohuo8.com\/index\/index\/alipay?t=HC26071924056655"};
+        var addon = {successtips:"支付成功!请关闭当前窗口以便于继续操作!", expiretips:"二维码已过期,请点击这里刷新后重新尝试支付!", jumptips:"支付成功!2秒后将自动跳转!"}
+    </script>
+
+</div>
+
+
+<script type="text/javascript" src="/public/assets/libs/jquery/dist/jquery.min.js?v=1545807192"></script>
+<script type="text/javascript" src="/public/assets/addons/pay/js/pay.js?v=1545807192"></script>
+</body>
+</html>
+2018-12-26 15:01:44 
